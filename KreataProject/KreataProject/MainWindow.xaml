@@ -16,7 +16,7 @@
     <Window.Resources>
         <FontFamily x:Key="ModernFont">Segoe UI</FontFamily>
         <Style x:Key="ButtonStyle" TargetType="Button">
-            <Setter Property="Background" Value="#7289DA"/>
+            <Setter Property="Background" Value="Gray"/>
             <Setter Property="Foreground" Value="White"/>
             <Setter Property="FontSize" Value="14"/>
             <Setter Property="Margin" Value="10,5"/>
